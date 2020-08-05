@@ -1,0 +1,7 @@
+.vscode/
+build/
+dist/
+ho_hello.egg-info/
+
+# Local History for Visual Studio Code
+.history/
